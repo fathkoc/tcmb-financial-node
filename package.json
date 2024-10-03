@@ -1,0 +1,17 @@
+
+{
+  "name": "tcmb-financial-node",
+  "version": "1.0.0",
+  "description": "A Node.js library to fetch exchange rates and interest rates from TCMB.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatih",
+  "license": "ISC"
+}
